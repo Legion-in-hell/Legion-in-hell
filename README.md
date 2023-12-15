@@ -6,4 +6,5 @@
 
 💬 Feel free to explore my repos and reach out to discuss ideas or collaborations. Together, let's explore the endless possibilities of coding!
 
-<iframe id='kofiframe' src='https://ko-fi.com/corentinrouff/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='corentinrouff'></iframe>
+<a href='https://ko-fi.com/corentinrouff' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
